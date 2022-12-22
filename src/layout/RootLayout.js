@@ -5,6 +5,7 @@ const RootLayout = () => {
   const location = useLocation();
 
   return (
+    
     <>
       <Navbar />
       <div className="container-fluid p-3">
