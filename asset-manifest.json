@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/React-CRUD/static/css/main.e51ad256.css",
-    "main.js": "/React-CRUD/static/js/main.a6916fff.js",
-    "index.html": "/React-CRUD/index.html",
-    "main.e51ad256.css.map": "/React-CRUD/static/css/main.e51ad256.css.map",
-    "main.a6916fff.js.map": "/React-CRUD/static/js/main.a6916fff.js.map"
+    "main.css": "/static/css/main.e51ad256.css",
+    "main.js": "/static/js/main.a6916fff.js",
+    "index.html": "/index.html",
+    "main.e51ad256.css.map": "/static/css/main.e51ad256.css.map",
+    "main.a6916fff.js.map": "/static/js/main.a6916fff.js.map"
   },
   "entrypoints": [
     "static/css/main.e51ad256.css",
